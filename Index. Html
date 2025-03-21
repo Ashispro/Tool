@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover a wide range of free online tools for images and PDFs. Optimize, compress, convert, and edit files effortlessly.">
+    <meta name="keywords" content="image tools, PDF tools, online tools, free tools, image compressor, PDF converter">
+    <meta name="author" content="Your Name">
+    <title>Home - Online Tools Website</title>
+    <style>
+        /* CSS Styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .hero {
+            background: url('https://via.placeholder.com/1200x400') no-repeat center center/cover;
+            color: #fff;
+            padding: 100px 20px;
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+        }
+
+        .hero .cta-button {
+            background-color: #28a745;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.1rem;
+        }
+
+        .hero .cta-button:hover {
+            background-color: #218838;
+        }
+
+        .tools, .features, .testimonials {
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .tools h2, .features h2, .testimonials h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        .tool-grid, .feature-list, .testimonial-list {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .tool-card, .feature, .testimonial {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 30%;
+            margin: 10px;
+            transition: transform 0.3s ease;
+        }
+
+        .tool-card:hover, .feature:hover, .testimonial:hover {
+            transform: translateY(-10px);
+        }
+
+        .tool-card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .tool-card h3, .feature h3, .testimonial h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        footer a {
+            color: #28a745;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .tool-card, .feature, .testimonial {
+                width: 100%;
+            }
+        }
+    </style>
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_AD_UNIT_ID" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <h1>Online Tools Website</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Image Tools</a>
+        <a href="#">PDF Tools</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+    <section class="hero">
+        <h1>Your All-in-One Toolbox for Images and PDFs</h1>
+        <p>Discover a wide range of free online tools to optimize, compress, convert, and edit your files effortlessly.</p>
+        <a href="#" class="cta-button">Explore Tools</a>
+    </section>
+    <section class="tools">
+        <h2>Popular Tools</h2>
+        <div class="tool-grid">
+            <div class="tool-card">
+                <img-compress.html-src="https://via.placeholder.com/300x200" alt="Image Compressor">
+                <h3>Image Compressor</h3>
+                <p>Compress and optimize images without losing quality.</p>
+            </div>
+            <div class="tool-card">
+                <img src="https://via.placeholder.com/300x200" alt="PDF Converter">
+                <h3>PDF Converter</h3>
+                <p>Convert PDFs to Word, Excel, or other formats.</p>
+            </div>
+            <div class="tool-card">
+                <img src="https://via.placeholder.com/300x200" alt="Image Resizer">
+                <h3>Image Resizer</h3>
+                <p>Resize images to fit your needs.</p>
+            </div>
+        </div>
+    </section>
+    <section class="features">
+        <h2>Why Choose Us?</h2>
+        <div class="feature-list">
+            <div class="feature">
+                <h3>Free to Use</h3>
+                <p>All tools are completely free with no hidden charges.</p>
+            </div>
+            <div class="feature">
+                <h3>Fast & Efficient</h3>
+                <p>Process files quickly without compromising quality.</p>
+            </div>
+            <div class="feature">
+                <h3>User-Friendly</h3>
+                <p>Simple and intuitive interface for all users.</p>
+            </div>
+        </div>
+    </section>
+    <section class="testimonials">
+        <h2>What Our Users Say</h2>
+        <div class="testimonial-list">
+            <div class="testimonial">
+                <h3>John Doe</h3>
+                <p>"This website is a lifesaver! The tools are easy to use and work perfectly."</p>
+            </div>
+            <div class="testimonial">
+                <h3>Jane Smith</h3>
+                <p>"I use these tools daily for my work. Highly recommended!"</p>
+            </div>
+            <div class="testimonial">
+                <h3>Mike Johnson</h3>
+                <p>"The best collection of free tools I've ever found. Thank you!"</p>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2023 Online Tools Website. All rights reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+    </footer>
+</body>
+</html>
